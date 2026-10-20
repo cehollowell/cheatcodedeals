@@ -1,0 +1,35 @@
+{
+  "amazon": {
+    "id": "",
+    "template": ""
+  },
+  "humble": {
+    "id": "",
+    "template": ""
+  },
+  "fanatical": {
+    "id": "",
+    "template": ""
+  },
+  "greenman": {
+    "id": "",
+    "template": ""
+  },
+  "bestbuy": {
+    "id": "",
+    "template": ""
+  },
+  "walmart": {
+    "id": "",
+    "template": ""
+  },
+  "target": {
+    "id": "",
+    "template": ""
+  },
+  "gamestop": {
+    "id": "",
+    "template": ""
+  },
+  "_help": "amazon: id=Associates tag e.g. cheatcode-20. humble: id=partner name. Others: template=network deep link with {url_enc} (Impact: https://<sub>.sjv.io/c/PID/ADID/CAMPID?u={url_enc}; CJ: https://www.anrdoezrs.net/click-PID-ADID?url={url_enc}). template overrides id."
+}
